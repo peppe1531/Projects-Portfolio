@@ -1,0 +1,7 @@
+This project requires the following packages:
+- copy
+- random
+- subprocess
+- json
+- time
+- os
