@@ -20,9 +20,9 @@ The Integrated Healthcare Timetabling Problem consists of determining feasible a
 The optimization objective is evaluated in terms of **hard and soft constraint violations**, computed using an external validator.
 
 ## Project Structure
-The main components of the project are:
+The main components of the project are inside the directory `GeneticAlgorithm/`:
 
-- `GeneticAlgorithm/`  
+- `GA.py`  
   Core implementation of the genetic algorithm.
 
 - `hospital/`  
