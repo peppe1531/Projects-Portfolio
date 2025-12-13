@@ -1,6 +1,6 @@
 # Projects Portfolio
 
-This repository collects a selection of **academic projects** developed during my studies, with a primary focus on **Machine Learning, Deep Learning, Data Analysis, Numerical Methods, and Applied Linear Algebra**.
+This repository collects a selection of **academic projects** developed during my studies, with a primary focus on **Machine Learning, Deep Learning, Data Analysis, Numerical and Stochastic Optimization Methods, and Applied Linear Algebra**.
 
 The projects showcase both **theoretical understanding** and **practical implementation**, ranging from data-driven machine learning pipelines to mathematically grounded numerical and optimization techniques.
 
