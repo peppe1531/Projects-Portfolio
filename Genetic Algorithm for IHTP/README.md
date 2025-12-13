@@ -5,7 +5,7 @@ This project implements a Genetic Algorithm to solve a stochastic optimization p
 
 The goal is to find an optimal scheduling of patients, hospital resources, and medical staff while minimizing constraint violations.
 
-This project was developed as part of an academic assignment.
+This project was **developed individually**.
 
 Experimental results and comparisons between different parameter configurations are reported in the accompanying project report.
 
