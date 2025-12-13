@@ -32,7 +32,7 @@ Individual projects reflect my independent work, from problem formulation to imp
 ## Programming Languages and Libraries
 
 Across the projects, the following programming languages and libraries are commonly used:
-- Python (NumPy, Pandas, scikit-learn, PyTorch)
+- Python (PyTorch, NumPy, Pandas, scikit-learn...)
 - Jupyter Notebook
 - MATLAB
 - C / C++
