@@ -24,7 +24,7 @@ Each project is self-contained and documented with a dedicated README and a repo
 
 This portfolio includes a combination of **individually developed projects** and **pair projects** completed in an academic setting.
 
-For group or pair projects, each project README clearly specifies my personal contributions and responsibilities.  
+For pair projects, each project README clearly specifies my personal contributions and responsibilities.  
 Individual projects reflect my independent work, from problem formulation to implementation and analysis.
 
 ---
