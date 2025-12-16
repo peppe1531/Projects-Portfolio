@@ -65,5 +65,5 @@ $\texttt{stdFPS} \gets \texttt{std(FPS)}$
 
 ## Notes
 
-This project was developed as a **group project** as part of an academic course.  
+This project was developed as a **pair project** as part of an academic course.  
 My contribution focused primarily on model implementation, training, experimentation, and performance evaluation.
