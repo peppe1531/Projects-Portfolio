@@ -6,6 +6,7 @@ The objective is to study and compare zero-order and second-order optimization m
 
 The work combines theoretical understanding, algorithmic implementation, and experimental evaluation.
 
+This project was **developed individually**.
 ---
 
 ## Optimization Methods
@@ -34,7 +35,5 @@ The **full MATLAB implementation** used during development is included in the **
 
 ---
 
-## Notes
-This project was **developed individually**.
 
 
