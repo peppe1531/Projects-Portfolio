@@ -7,6 +7,7 @@ The objective is to study and compare zero-order and second-order optimization m
 The work combines theoretical understanding, algorithmic implementation, and experimental evaluation.
 
 This project was **developed individually**.
+
 ---
 
 ## Optimization Methods
