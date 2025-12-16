@@ -21,7 +21,7 @@ The project includes the implementation and analysis of the following methods:
 ## Implementation
 The MATLAB implementation includes the core optimization algorithms, a set of objective functions used for testing, and a main script that runs the experiments and produces numerical results and visualizations.
 
-Only a **clean and representative subset** of the MATLAB code is included in this repository in the directory 'src', focusing on the essential components needed to understand the optimization procedures.
+Only a **clean and representative subset** of the MATLAB code is included in this repository in the ****directory 'src'**, focusing on the essential components needed to understand the optimization procedures.
 
 ---
 
