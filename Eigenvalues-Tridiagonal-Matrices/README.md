@@ -1,5 +1,7 @@
 # Eigenvalues of Tridiagonal Symmetric Matrices
 
+**Project duration:** December 2024 – January 2025
+
 This project studies the **eigenvalue computation of symmetric tridiagonal matrices**, combining **theoretical linear algebra tools** with **numerical methods**.  
 In particular, Gershgorin’s Circle Theorem is used to bound the spectrum of the matrix, while a Newton-based approach is applied to accurately compute individual eigenvalues.
 
