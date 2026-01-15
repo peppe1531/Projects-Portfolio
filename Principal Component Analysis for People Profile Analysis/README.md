@@ -1,5 +1,7 @@
 # PCA-Based People Profile Analysis
 
+**Project duration:** December 2024 – January 2025
+
 This project explores the use of **Principal Component Analysis (PCA)** for the analysis and representation of people profiles based on high-dimensional data.  
 The goal is to reduce dimensionality while preserving the most informative components of the original data, enabling clearer interpretation, visualization, and downstream analysis.
 
