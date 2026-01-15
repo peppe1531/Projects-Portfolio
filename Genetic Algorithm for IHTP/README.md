@@ -1,5 +1,7 @@
 # Genetic Algorithm for Healthcare Timetabling
 
+**Project duration:** July 2025 – August 2025
+
 ## Overview
 This project implements a Genetic Algorithm to solve a stochastic optimization problem in the healthcare domain, namely the **Integrated Healthcare Timetabling Problem (IHTP)**.
 
