@@ -1,5 +1,7 @@
 # Speaker Age Prediction from Audio
 
+**Project duration:** December 2024 – January 2025
+
 This project focuses on the **prediction of a speaker’s age from spoken audio signals** using Machine Learning techniques.  
 The task is formulated as a **regression problem**, where the model estimates the speaker’s age as a continuous variable based on acoustic and linguistic features extracted from `.wav` files.
 
