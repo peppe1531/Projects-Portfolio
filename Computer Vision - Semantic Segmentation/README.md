@@ -1,3 +1,6 @@
+**Project duration:** April 2025 – June 2025
+
+
 ## Model initialization
 
 In the following link you can find the pretrained weights for DeepLab.
