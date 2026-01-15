@@ -1,5 +1,8 @@
 # Spectral Clustering on Non-Linear Datasets
 
+**Project duration:** December 2024 – January 2025
+
+
 This project investigates **Spectral Clustering** as an alternative to classical clustering algorithms when dealing with **non-linearly separable datasets**.  
 The analysis is grounded in **linear algebra concepts**, such as eigenvalues and eigenvectors of graph Laplacians, and compares spectral clustering with standard methods like **K-Means** and **DBSCAN**.
 
