@@ -1,5 +1,7 @@
 # Numerical Optimization Methods: implementation and validation of Nelder-Mead Method and Modified Newton Method
 
+**Project duration:** November 2024 – January 2025
+
 ## Overview
 This project focuses on the implementation and analysis of numerical optimization methods using MATLAB.  
 The objective is to study and compare zero-order and second-order optimization methods by applying them to benchmark objective functions and analyzing their convergence behavior and performance.
